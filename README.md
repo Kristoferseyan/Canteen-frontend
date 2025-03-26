@@ -16,7 +16,7 @@ This project has been an invaluable learning experience, as it marks my first in
 
 ## Technologies Used
 - **Flutter** – Frontend framework for building a modern UI.
-- **Supabase** – Backend-as-a-Service for database management.
+- **MySQL** – Database management system, running on Docker and managed via Azure Data Studio.
 - **Dart** – Programming language for Flutter development.
 - **ASP.NET** – Backend API framework, connected to an **SQL database** on Azure Data Studio.
 
@@ -39,3 +39,4 @@ This project has been an invaluable learning experience, as it marks my first in
 
 ## License
 This project is licensed under the **MIT License**.
+
